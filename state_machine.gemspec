@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary  = 'State machine library for ActiveModel'
   s.description = s.summary
 
-  s.add_dependency 'active_model', '>= 3.0.0'
+  s.add_dependency 'activemodel', '>= 3.0.0'
 
   s.files = Dir['lib/**/*.rb']
 
